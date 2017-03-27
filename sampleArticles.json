@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "The First Title",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in erat ut quam tincidunt congue vel vitae ligula. Nulla a tristique ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+    "publication_date": "2017-03-24T01:00:00.000Z",
+    "author": "Joseph Weitekamp",
+    "creditQualities": [
+      "HY"
+    ],
+    "regions": [
+      "US",
+      "EU"
+    ],
+    "sectors": [
+      "TMT",
+      "AUT"
+    ],
+    "tags": [
+      "Highlighted"
+    ]
+  }
